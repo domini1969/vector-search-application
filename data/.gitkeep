@@ -1,0 +1,2 @@
+# Ensures data/ directory structure is preserved in Git
+# This directory contains application data files and subdirectories

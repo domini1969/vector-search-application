@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(jq:*)",
+      "Bash(cp:*)",
+      "Bash(ls:*)",
+      "Bash(sed:*)",
+      "Bash(curl:*)",
+      "Bash(mv:*)",
+      "Bash(python:*)",
+      "Bash(pip install:*)",
+      "Bash(set PYTHONIOENCODING=utf-8)",
+      "Bash(powershell:*)",
+      "Bash(git rm:*)",
+      "Bash(git commit:*)",
+      "Bash(git reset:*)",
+      "Bash(git clean:*)",
+      "Bash(rm:*)",
+      "Bash(git init:*)",
+      "Bash(bash:*)"
+    ],
+    "deny": []
+  }
+}

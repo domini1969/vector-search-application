@@ -1,0 +1,3 @@
+# This file ensures the logs/ directory is included in Git repository
+# The directory is needed for application logging on AWS deployment
+# Individual .log files are excluded by .gitignore but the directory structure is preserved
